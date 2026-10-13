@@ -56,6 +56,7 @@
 
 - Spring Boot + React + MySQL
 - 문자(SMS) 본인인증 회원가입, 관리자 상품/이미지 관리, 배송비 정책, SEO 적용
+- 📄 [포트폴리오 PDF 보기](./portfolio/nolbumall.pdf)
 
 ### 💰 내 월급으로 살아남기 — [mywolgeup.com](https://mywolgeup.com/)
 월급 기반 개인 재정 진단 서비스
@@ -64,6 +65,7 @@
 
 - React + Vite + Tailwind CSS, Cloudflare Pages 배포
 - 연봉 실수령액 계산, 퇴사 후 버틸 수 있는 기간 시뮬레이션, 월 소비 진단, 구매 판단 도우미
+- 📄 [포트폴리오 PDF 보기](./portfolio/mywolgeup.pdf)
 
 ### 🎣 Fisherman — [fisherman-ecno.onrender.com](https://fisherman-ecno.onrender.com/)
 낚시 통합 정보 사이트
@@ -73,6 +75,7 @@
 - Spring Boot + React + MySQL + Redis, 공공데이터포털 API, 네이버 로그인(OAuth2)
 - Docker 기반 Render 배포, Cloudinary 사진 저장
 - 전국 낚시 포인트 지도, 물때·날씨 정보, 조과 공유, 낚시 커뮤니티
+- 📄 [포트폴리오 PDF 보기](./portfolio/fisherman.pdf)
 
 ## 📊 GitHub Stats
 ![stats](https://github-readme-stats.vercel.app/api?username=yeunjun37-cyber&show_icons=true&theme=tokyonight)
